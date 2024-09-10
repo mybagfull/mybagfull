@@ -1,14 +1,6 @@
 <h1 align="center">Wussup 🗺, I'm Denis</h1>
 <h3 align="center">🥷 android dev 📱</h3>
 
-- 🔭 I’m currently working on **skrpapa**
-
-- 🌱 I’m currently learning **shkibidi**
-
-- 👯 I’m looking to collaborate on **skrpapa**
-
-- 🤝 I’m looking for help with **skrpapa**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
